@@ -2,11 +2,11 @@
 // 2 logics
 
 int is_even(int k){
-  if(k%2!=0){
+  if(k%2==0){
     return k;
   }
   else{
-    while(k%2==0)
+    while(k%2!=0)
     {
       k++;
     }
@@ -30,11 +30,10 @@ int main()
 }
 
 
-
 /*
 ---> 2nd logic <-----
 
-k=2;
+k=1;
 for(int i = 1; i <= n; i++)
     {
       for(int j = 1; j <= n; j++)
@@ -49,8 +48,5 @@ for(int i = 1; i <= n; i++)
 
 */
 
-
 return 0;
 }
-
-
