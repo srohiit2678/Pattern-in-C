@@ -1,3 +1,6 @@
+/*
+
+*/
 #include<stdio.h>
 // 2 logic
 
