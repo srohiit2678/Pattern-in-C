@@ -1,3 +1,10 @@
+/*
+ E  D  C  B  A 
+ E  D  C  B  A    
+ E  D  C  B  A    
+ E  D  C  B  A    
+ E  D  C  B  A  
+*/
 #include<stdio.h>
 
 int main(){
