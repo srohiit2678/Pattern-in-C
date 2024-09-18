@@ -1,3 +1,10 @@
+/*
+5 4 3 2 1 
+6 5 4 3
+7 6 5
+8 7
+9
+*/
 #include <stdio.h>
 
 int main()

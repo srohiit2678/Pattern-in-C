@@ -1,3 +1,10 @@
+/*
+E 
+D D
+C C C
+B B B B
+A A A A A
+*/
 #include <stdio.h>
 
 int main()
