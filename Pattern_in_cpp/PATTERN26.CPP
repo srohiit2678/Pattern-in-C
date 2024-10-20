@@ -1,0 +1,21 @@
+/*
+0 
+1 1
+2 3 5
+8 13 21 34
+*/
+#include<iostream>
+using namespace std;
+int main(){
+    int i,j,n=4;
+    int a=1,b=0,c=0;
+   for(i=1;i<=n;i++){
+    for(j=1;j<=i;j++){
+     cout<< c<< " "  ;
+     c=a+b;
+     a=b;
+     b=c;
+    }
+   cout<<endl;
+   }
+}
